@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Евгений Зуев](https://up.htmlacademy.ru/adaptive/23/user/1150697).
-* Наставник: `Неизвестно`.
+* Наставник: `Евгений Котов`(https://htmlacademy.ru/profile/eugene_kotov).
 
 ---
 
